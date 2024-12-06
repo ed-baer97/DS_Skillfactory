@@ -12,7 +12,7 @@ def game_core_v3(number: int = 1) -> int:
         int: Число попыток
     """
     count = 0
-    low = 1
+    low = number
     high = 100
     predict = (low + high) // 2  # Начальное предположение (середина диапазона)
 
