@@ -11,7 +11,7 @@
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](https://github.com/ed-baer97/DS_Skillfactory/tree/main/project%200/## Оглавление)
+:arrow_up:[к оглавлению](.https://github.com/ed-baer97/DS_Skillfactory/tree/main/project%200/## Оглавление)
 
 
 ### Какой кейс решаем?    
